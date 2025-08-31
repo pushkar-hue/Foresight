@@ -77,12 +77,6 @@ We believe we can push the performance even further. Our immediate focus is on e
 
 -----
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
------
-
 ## Cotribution:
 * [Ved Thorat](https://github.com/i3hz/)
 * [Pushkar Sharma](https://github.com/pushkar-hue/)
