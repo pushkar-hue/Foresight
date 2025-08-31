@@ -37,12 +37,15 @@ This dual-context approach makes the model incredibly powerful for identifying s
 We are proud to have achieved a **test RMSE of \~0.05** on the UCI "Individual household electric power consumption" dataset. This result significantly outperforms the previous top score of \~0.6 on the same dataset.
 
 The model demonstrates excellent learning behavior with both training and validation losses converging to near-zero, indicating a robust and well-generalized model.
-![WhatsApp Image 2025-08-30 at 21 06 37_1ac57376](https://github.com/user-attachments/assets/7ef54fdb-4e12-4eee-8480-36ccf85c9ce3)
-![WhatsApp Image 2025-08-30 at 21 06 43_bc06611c](https://github.com/user-attachments/assets/0ef83f28-4364-480d-82d1-c287195acae7)
+<img width="1036" height="547" alt="Untitled" src="https://github.com/user-attachments/assets/32d5a0de-055d-40ae-a190-095f9e3b815f" />
+<img width="1489" height="790" alt="image" src="https://github.com/user-attachments/assets/d59070ba-785c-400d-99b7-36cc365121b8" />
+<img width="1489" height="590" alt="image" src="https://github.com/user-attachments/assets/336b9055-7dde-4b7e-ba79-5405b53f514b" />
+
+
 
 -----
 
-## 🛠Getting Started
+## Getting Started
 
 ### Prerequisites
 
