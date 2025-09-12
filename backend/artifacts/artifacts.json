@@ -1,0 +1,26 @@
+{
+    "fill_values": {
+        "Global_active_power": 1.0891861717925886,
+        "Global_reactive_power": 0.12186077464027127,
+        "Voltage": 240.52480656192563,
+        "Global_intensity": 4.628149827139488,
+        "Sub_metering_1": 1.1506107816843287,
+        "Sub_metering_2": 1.3584511191437991,
+        "Sub_metering_3": 6.136522072889746
+    },
+    "columns": [
+        "Global_active_power",
+        "Global_reactive_power",
+        "Voltage",
+        "Global_intensity",
+        "Sub_metering_1",
+        "Sub_metering_2",
+        "Sub_metering_3",
+        "hour_sin",
+        "hour_cos",
+        "day_of_week_sin",
+        "day_of_week_cos",
+        "month_sin",
+        "month_cos"
+    ]
+}

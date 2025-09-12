@@ -1,5 +1,10 @@
-pytorch
+torch
 numpy
 scikit-learn
 pandas
 matplotlib
+fastapi
+uvicorn[standard]
+joblib
+pydantic
+streamlit
